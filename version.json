@@ -1,5 +1,5 @@
 {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "download_url": "https://raw.githubusercontent.com/cs2cheats-tech/cs2autoupdater/main/Void.exe",
-    "changelog": "VOID v1.2.4: Updated Live CS2 Memory Offsets (dwEntityList, dwLocalPlayerPawn, dwLocalPlayerController, dwViewMatrix, dwViewAngles)."
+    "changelog": "VOID v1.2.5: Redesigned Spectator List HUD with Signature VOID Crimson Red Accent (#FF0052)."
 }
