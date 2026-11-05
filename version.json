@@ -1,5 +1,5 @@
 {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "download_url": "https://raw.githubusercontent.com/cs2cheats-tech/cs2autoupdater/main/Void.exe",
-    "changelog": "VOID v1.2.3: Restored Signature #171717 Dark Carbon & Iconic Red (#FF0052) Theme Across All Tabs."
+    "changelog": "VOID v1.2.4: Updated Live CS2 Memory Offsets (dwEntityList, dwLocalPlayerPawn, dwLocalPlayerController, dwViewMatrix, dwViewAngles)."
 }
