@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.18",
+    "version":  "1.2.19",
     "download_url":  "https://raw.githubusercontent.com/cs2cheats-tech/cs2autoupdater/main/Void.exe",
-    "changelog":  "VOID v1.2.18: Deep Binary Hardening Zero-String-Leak Offset Session Binding"
+    "changelog":  "VOID v1.2.19: Auto Match Capture Dashboard and Local Screenshots Storage Engine"
 }
