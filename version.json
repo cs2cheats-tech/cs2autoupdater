@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.11",
+    "version":  "1.2.12",
     "download_url":  "https://raw.githubusercontent.com/cs2cheats-tech/cs2autoupdater/main/Void.exe",
-    "changelog":  "VOID v1.2.11: bug fixes"
+    "changelog":  "VOID v1.2.12: CS2 Build 14201 Game Patch - Updated offsets, ViewMatrix, and Aimbot target acquisition"
 }
