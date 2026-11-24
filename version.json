@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.15",
+    "version":  "1.2.16",
     "download_url":  "https://raw.githubusercontent.com/cs2cheats-tech/cs2autoupdater/main/Void.exe",
-    "changelog":  "VOID v1.2.15: License Timer Formatting and Duration Fix"
+    "changelog":  "VOID v1.2.16: Native Administrator Elevation and Complete Trace Purge"
 }
